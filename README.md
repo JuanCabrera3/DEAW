@@ -7,9 +7,9 @@ El objetivo es aprender a trabajar con repositorios, realizar commits, gestionar
 
 
 ## Compañeros de clase
-|------------------------|------------------------------------------------------|
-| NOMBRE                 | GITHUB                                               |
-|------------------------|------------------------------------------------------|
-| Nombre Ismael Mompean  | [mompean883](https://github.com/mompean883)          |
-| Nombre Joaquín Chimeno | [joaquin-chimeno](https://github.com/joaquin-chimeno)|
-|------------------------|------------------------------------------------------|
+
+| NOMBRE                 | GITHUB                                        |
+|------------------------|-----------------------------------------------|
+| Ismael Mompean  | [mompean883](https://github.com/mompean883)          |
+| Joaquín Chimeno | [joaquin-chimeno](https://github.com/joaquin-chimeno)|
+
