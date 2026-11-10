@@ -4,3 +4,12 @@ Este repositorio está destinado a la realización de las prácticas del módulo
 En él se realizarán diferentes ejercicios relacionados con el control de versiones mediante Git y la gestión de repositorios remotos utilizando GitHub.
 
 El objetivo es aprender a trabajar con repositorios, realizar commits, gestionar ramas, resolver conflictos y colaborar con otros compañeros.
+
+
+## Compañeros de clase
+|------------------------|------------------------------------------------------|
+| NOMBRE                 | GITHUB                                               |
+|------------------------|------------------------------------------------------|
+| Nombre Ismael Mompean  | [mompean883](https://github.com/mompean883)          |
+| Nombre Joaquín Chimeno | [joaquin-chimeno](https://github.com/joaquin-chimeno)|
+|------------------------|------------------------------------------------------|
